@@ -17,6 +17,8 @@
     "expo": "~46.0.9",
     "expo-ads-admob": "^13.0.0",
     "expo-dev-client": "~1.2.1",
+    "expo-device": "^4.3.0",
+    "expo-notifications": "~0.16.1",
     "expo-status-bar": "~1.4.0",
     "firebase": "^9.6.11",
     "react": "18.0.0",
