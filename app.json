@@ -24,14 +24,20 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.notes.NoteTakingApp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "b9a98633-95f6-4f29-8773-abc95c8a8dec"
+      }
     }
   },
   "react-native-google-mobile-ads": {
     "android_app_id": "ca-app-pub-1121258046068139~2364803996",
     "ios_app_id": "ca-app-pub-1121258046068139~2225165202"
-    }
+  }
 }
