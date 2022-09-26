@@ -6,7 +6,7 @@ const Splash = (props) => {
 
     setTimeout(() => {
         // alert('kaam chor class')
-        props.navigation.replace('Main')
+        props.navigation.replace('Login')
     }, 3000)
 
     return(
@@ -27,7 +27,6 @@ const styles = StyleSheet.create({
     logo: {
         height: 150,
         width: 200
-    
     }
 })
 export default Splash
